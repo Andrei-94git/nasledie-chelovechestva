@@ -1,4 +1,4 @@
 :HL["/nasledie-chelovechestva/_next/static/chunks/0_pdcaad8t9in.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"I-kahtzi4UJl7zOAfyZU6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"2N677mcAjTzxD8d8IHgte","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
