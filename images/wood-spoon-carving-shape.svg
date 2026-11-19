@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="wood" x2="0" y2="1">
+      <stop stop-color="#f2d3a2"/><stop offset="1" stop-color="#d9a873"/>
+    </linearGradient>
+    <radialGradient id="hollow" cx=".47" cy=".39" r=".7">
+      <stop stop-color="#c58d58"/><stop offset=".67" stop-color="#aa7144"/><stop offset="1" stop-color="#deb680"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="m2 2 8 4-8 4" fill="none" stroke="#345946" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  
+  <g transform="translate(0 128)">
+    <path d="M61 0c0-43 34-74 85-75 49-1 72 22 101 45 23 19 52 17 81 16l185-6q24 0 24 20t-24 20l-185-6c-29-1-58-3-81 16-29 23-52 46-101 45C95 74 61 43 61 0z" fill="url(#wood)" stroke="#785338" stroke-width="2"/>
+    <path d="M83 0c0-34 26-56 65-57 34-1 70 31 76 47q4 10 0 20c-6 16-42 48-76 47C109 56 83 34 83 0z" fill="url(#hollow)" stroke="#96693e" stroke-width="1.6"/>
+    <path d="M120-21q40-10 74 9m-83 17q40-11 75 4m-67 16q24-5 51 3M279-3q88 4 212-3m-202 10q101 4 226 0" fill="none" stroke="#875b37" stroke-width="1.5" opacity=".35"/>
+    <path d="M254 0l49 56h35" fill="none" stroke="#345946" stroke-width="1.6"/>
+    <circle cx="254" r="3" fill="#345946"/><text x="349" y="63" text-anchor="start" fill="#345946" font-family="Arial, sans-serif" font-size="25" font-weight="600">Переход к ручке</text>
+  </g>
+  <text x="66" y="251" text-anchor="start" fill="#345946" font-family="Arial, sans-serif" font-size="25" font-weight="600">Продольный разрез</text>
+  <g transform="translate(0 278)">
+    <path d="M61 0h22c23 0 32 25 74 25 38 0 49-22 69-23l291-4q20 0 20 8v7h-20l-262 3H255c-28 0-35 24-68 33-50 14-108 4-126-45z" fill="url(#wood)" stroke="#785338" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <path d="M155 317v28h47" fill="none" stroke="#345946" stroke-width="1.5"/>
+  <text x="215" y="352" text-anchor="start" fill="#345946" font-family="Arial, sans-serif" font-size="25" font-weight="600">Округлое дно чаши</text>
+
+</svg>

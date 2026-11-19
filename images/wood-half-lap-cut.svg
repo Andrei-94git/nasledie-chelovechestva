@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  
+  <text x="42" y="126" fill="#304b3e" font-family="Arial, sans-serif" font-size="25" font-weight="600">Два пропила</text>
+  <text x="42" y="153" fill="#304b3e" font-family="Arial, sans-serif" font-size="25" font-weight="600">до отметки</text>
+  
+    <polygon points="240.43,115.22 461.83,208.1 461.83,156.26 240.43,63.38" fill="#b67e46" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <polygon points="501.57,184.78 461.83,208.1 461.83,156.26 501.57,132.94" fill="#c39054" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <polygon points="280.17,40.06 501.57,132.94 461.83,156.26 240.43,63.38" fill="#e5b979" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    
+    
+    <path d="M259.73 59.48L287.62 69.85L314.49 83.79L335.01 91.06" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+    
+    <path d="M409.79 105.1L437.69 115.47L455.7 125.69L483.59 136.06" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M392.57 115.21L426.37 128.05L447.49 140.91L465.05 146.95" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M368.73 77.21L328.99 100.54L328.99 126.46" fill="none" stroke="#634432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M413.01 95.78L373.27 119.11L373.27 145.03" fill="none" stroke="#634432" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke-dasharray="4 4"><path d="M328.99 126.46L373.27 145.03" fill="none" stroke="#634432" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="42" y="279" fill="#304b3e" font-family="Arial, sans-serif" font-size="25" font-weight="600">Ровное дно</text>
+  <text x="42" y="306" fill="#304b3e" font-family="Arial, sans-serif" font-size="25" font-weight="600">выемки</text>
+  
+    <polygon points="240.43,289.22 461.83,382.1 461.83,330.26 373.27,293.11 373.27,319.03 328.99,300.46 328.99,274.54 240.43,237.38" fill="#b67e46" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <polygon points="501.57,358.78 461.83,382.1 461.83,330.26 501.57,306.94" fill="#c39054" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <polygon points="280.17,214.06 368.73,251.21 328.99,274.54 240.43,237.38" fill="#e5b979" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <polygon points="368.73,277.13 413.01,295.7 373.27,319.03 328.99,300.46" fill="#d89f5f" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <polygon points="368.73,277.13 328.99,300.46 328.99,274.54 368.73,251.21" fill="#c39054" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M259.73 233.48L287.62 243.85L314.49 257.79L335.01 265.06" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+    <polygon points="373.27,344.95 461.83,382.1 461.83,330.26 373.27,293.11" fill="#b67e46" stroke="none" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M373.27 344.95L461.83 382.1L461.83 330.26" fill="none" stroke="#634432" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M373.27 319.03L373.27 293.11" fill="none" stroke="#634432" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <polygon points="413.01,269.78 501.57,306.94 461.83,330.26 373.27,293.11" fill="#e5b979" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M409.79 279.1L437.69 289.47L455.7 299.69L483.59 310.06" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M392.57 289.21L426.37 302.05L447.49 314.91L465.05 320.95" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

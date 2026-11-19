@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="m2 2 8 4-8 4" fill="none" stroke="#315b47" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <pattern id="soil" width="32" height="23" patternUnits="userSpaceOnUse">
+      <rect width="32" height="23" fill="#bd8963"/><path d="M4 7h3m12 6h4m-12 7h2" stroke="#916747" stroke-width="1.4" stroke-linecap="round" opacity=".65"/>
+    </pattern>
+    <pattern id="cloth" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#d8c7ac"/><path d="M6 0v12M0 6h12" stroke="#aa947a" opacity=".46"/>
+    </pattern>
+    <clipPath id="hoop"><circle cx="300" cy="192" r="139"/></clipPath>
+  </defs>
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  <path d="M80 162l375-24 65 64-380 45z" fill="url(#soil)" stroke="#81583d" stroke-width="2"/>
+  <path d="M140 247l380-45v43l-380 46-60-82v-47z" fill="#a87450" stroke="#81583d" stroke-width="2"/><path d="M140 247v44" fill="none" stroke="#81583d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M137 201l326-30" fill="none" stroke="#6b4b38" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" /><path d="M138 204l326-30" fill="none" stroke="#8f6044" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="153" cy="200" rx="5" ry="3.5" fill="#dfad65" stroke="#77522e" stroke-width="1.5"/><ellipse cx="200" cy="195.7" rx="5" ry="3.5" fill="#dfad65" stroke="#77522e" stroke-width="1.5"/><ellipse cx="247" cy="191.4" rx="5" ry="3.5" fill="#dfad65" stroke="#77522e" stroke-width="1.5"/><ellipse cx="294" cy="187.1" rx="5" ry="3.5" fill="#dfad65" stroke="#77522e" stroke-width="1.5"/><ellipse cx="341" cy="182.8" rx="5" ry="3.5" fill="#dfad65" stroke="#77522e" stroke-width="1.5"/><ellipse cx="388" cy="178.5" rx="5" ry="3.5" fill="#dfad65" stroke="#77522e" stroke-width="1.5"/><ellipse cx="435" cy="174.2" rx="5" ry="3.5" fill="#dfad65" stroke="#77522e" stroke-width="1.5"/><text x="300" y="326" text-anchor="middle" fill="#315b47" font-family="Arial, sans-serif" font-size="21" font-weight="600">Семена лежат с равными промежутками</text>
+</svg>

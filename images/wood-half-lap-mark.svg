@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  
+  <defs><pattern id="waste" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(42)"><path d="M0 0v10" stroke="#994f34" stroke-width="2" opacity=".7"/></pattern></defs>
+  <text x="42" y="57" fill="#304b3e" font-family="Arial, sans-serif" font-size="25" font-weight="600">Брусок 30 × 30 мм</text>
+  
+    <polygon points="104.14,178.84 436.24,318.16 436.24,240.4 104.14,101.08" fill="#b67e46" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <polygon points="495.86,283.16 436.24,318.16 436.24,240.4 495.86,205.4" fill="#c39054" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    <polygon points="163.76,66.08 495.86,205.4 436.24,240.4 104.14,101.08" fill="#e5b979" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+    
+    
+    <path d="M133.1 95.22L174.94 110.77L215.24 131.68L246.01 142.59" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+    
+    <path d="M358.19 163.65L400.03 179.2L427.05 194.54L468.89 210.09" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M332.36 178.81L383.05 198.08L414.73 217.37L441.07 226.42" fill="none" stroke="#bb884e" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="296.6,121.81 363.02,149.68 303.4,184.67 236.98,156.8" fill="url(#waste)" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+  <polygon points="236.98,156.8 303.4,184.67 303.4,223.55 236.98,195.68" fill="url(#waste)" stroke="#634432" stroke-width="1.6" stroke-linejoin="round"/>
+  <text x="42" y="357" fill="#304b3e" font-family="Arial, sans-serif" font-size="25" font-weight="600">Глубина выемки — 15 мм</text>
+
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="m2 2 8 4-8 4" fill="none" stroke="#315b47" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <pattern id="soil" width="32" height="23" patternUnits="userSpaceOnUse">
+      <rect width="32" height="23" fill="#bd8963"/><path d="M4 7h3m12 6h4m-12 7h2" stroke="#916747" stroke-width="1.4" stroke-linecap="round" opacity=".65"/>
+    </pattern>
+    <pattern id="cloth" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#d8c7ac"/><path d="M6 0v12M0 6h12" stroke="#aa947a" opacity=".46"/>
+    </pattern>
+    <clipPath id="hoop"><circle cx="300" cy="192" r="139"/></clipPath>
+  </defs>
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  <path d="M40 139h114v160h305V139h101v188H40z" fill="url(#soil)" stroke="#936549" stroke-width="2"/>
+    <rect x="154" y="139" width="305" height="160" rx="0" fill="#efe4c9" stroke="#8d6649" stroke-width="1.5"/>
+    <path d="M149 138V103l100-54 105 54v35z" fill="#d3aa79" stroke="#795636" stroke-width="2"/>
+    <path d="M142 107l107-62 113 62" fill="none" stroke="#795636" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" /><rect x="174" y="110" width="51" height="29" rx="0" fill="#5e4836" stroke="#795636" stroke-width="1.5"/>
+    <path d="M174 140l58 140m-34-140 58 140" fill="none" stroke="#936a46" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" /><path d="M180 154h24" fill="none" stroke="#936a46" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M189 175h24" fill="none" stroke="#936a46" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M198 196h24" fill="none" stroke="#936a46" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M207 217h24" fill="none" stroke="#936a46" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M216 238h24" fill="none" stroke="#936a46" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M225 259h24" fill="none" stroke="#936a46" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M268 276l24-3 26 3 27-3 28 3 27-3 38 2v24H268z" fill="#9bbcc4" stroke="#648793" stroke-width="1.6"/>
+      <path d="M305 277v20m42-21v21m43-21v21" fill="none" stroke="#648793" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /><path d="M270 273l24-6 24 7 27-6 23 6 28-6 39 5" fill="none" stroke="#be904e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M288 239q20-8 40 0l-5 28h-30z" fill="#b98150" stroke="#755539" stroke-width="1.7"/><path d="M291 250h34m-33 9h32" fill="none" stroke="#795837" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" /><path d="M349 239q20-8 40 0l-5 28h-30z" fill="#b98150" stroke="#755539" stroke-width="1.7"/><path d="M352 250h34m-33 9h32" fill="none" stroke="#795837" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" /><path d="M410 239q20-8 40 0l-5 28h-30z" fill="#b98150" stroke="#755539" stroke-width="1.7"/><path d="M413 250h34m-33 9h32" fill="none" stroke="#795837" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" /><text x="474" y="112" text-anchor="middle" fill="#584130" font-family="Arial, sans-serif" font-size="16" font-weight="600">Уровень земли</text><path d="M491 118v17" fill="none" stroke="#8d6649" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="300" y="362" text-anchor="middle" fill="#315b47" font-family="Arial, sans-serif" font-size="21" font-weight="600">Лёд под слоем соломы</text>
+</svg>

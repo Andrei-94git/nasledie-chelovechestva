@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="m2 2 8 4-8 4" fill="none" stroke="#315b47" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <pattern id="soil" width="32" height="23" patternUnits="userSpaceOnUse">
+      <rect width="32" height="23" fill="#bd8963"/><path d="M4 7h3m12 6h4m-12 7h2" stroke="#916747" stroke-width="1.4" stroke-linecap="round" opacity=".65"/>
+    </pattern>
+    <pattern id="cloth" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#d8c7ac"/><path d="M6 0v12M0 6h12" stroke="#aa947a" opacity=".46"/>
+    </pattern>
+    <clipPath id="hoop"><circle cx="300" cy="192" r="139"/></clipPath>
+  </defs>
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  <path d="M87 172h158q19 0 29 24l24 60 24-60q10-24 30-24h161v119H87z" fill="url(#soil)" stroke="#81583d" stroke-width="2"/>
+    <ellipse cx="298" cy="255" rx="8" ry="5" fill="#aa6d36" stroke="#6c5136" stroke-width="1.5"/><path d="M82 172h436" fill="none" stroke="#a79472" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 6"/><path d="M298 177v66" fill="none" stroke="#315b47" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" marker-start="url(#arrow)" marker-end="url(#arrow)"/><text x="300" y="118" text-anchor="middle" fill="#315b47" font-family="Arial, sans-serif" font-size="21" font-weight="600">Глубина по упаковке семян</text>
+</svg>

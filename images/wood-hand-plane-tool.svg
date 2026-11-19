@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  
+  <g transform="translate(297 270) scale(1.51 1.51)" stroke-linejoin="round">
+    <path d="M-112 0v-33l13-18H104v13h12V0z" fill="#b57c50" stroke="#69472f" stroke-width="2.2"/>
+    <path d="M-110 -10h224v10h-224z" fill="#935d3c"/>
+    <path d="M-93 -31q37 4 69 0m56 8q35-3 64 1M-87 -20q40-3 68 0" fill="none" stroke="#805537" stroke-width="1.4" opacity=".66"/>
+    <path d="M-29 -51h68L16 0H7z" fill="#5c4335"/>
+    <path d="M-46 -88l9-5L10 -1l-5 4z" fill="#9da9a6" stroke="#445550" stroke-width="1.7"/>
+    <path d="m-26 -71 18-6L16 -13l-7 1z" fill="#d6a472" stroke="#69472f" stroke-width="1.7"/>
+    <path d="M-112 0H2m15 0h99" fill="none" stroke="#69472f" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#4e614c" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M145 116h47l43 35"/><path d="M431 125h-69l-84 45"/><path d="M404 322h-42l-26-50"/>
+  </g>
+  <text x="83" y="124" fill="#315b47" font-family="Arial, sans-serif" font-weight="600" font-size="22">Нож</text>
+  <text x="444" y="132" fill="#315b47" font-family="Arial, sans-serif" font-weight="600" font-size="22">Клин</text>
+  <text x="414" y="329" fill="#315b47" font-family="Arial, sans-serif" font-weight="600" font-size="22">Подошва</text>
+</svg>

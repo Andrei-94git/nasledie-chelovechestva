@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0l8 4-8 4z" fill="#365f4c"/>
+    </marker>
+  </defs>
+  <rect width="600" height="400" fill="#e9e2cf"/>
+  <rect x="13" y="13" width="574" height="374" rx="9" fill="#faf4e5" stroke="#d1c5a8"/>
+  <g fill="#eee0bf" stroke="#9e8051" stroke-width="2.5">
+    <rect x="48" y="112" width="216" height="148" rx="5"/>
+    <rect x="372" y="80" width="148" height="216" rx="5"/>
+  </g>
+  <path d="M56 186h200m124 2h132" fill="none" stroke="#90653e" stroke-width="3" stroke-dasharray="8 6"/>
+  <g fill="none" stroke="#365f4c" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M156 94v61"/><path d="M156 278v-61"/>
+    <path d="M446 63v89"/><path d="M446 312v-89"/>
+  </g>
+  <g fill="#243e32" font-family="Arial,sans-serif" font-size="20" font-weight="600" text-anchor="middle">
+    <text x="156" y="51">Первый лист</text>
+    <text x="446" y="51">Второй повёрнут на 90°</text>
+    <text x="300" y="356">Пунктир показывает линию будущего сгиба</text>
+  </g>
+</svg>

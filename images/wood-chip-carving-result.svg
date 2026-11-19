@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="lime-wood" x1="0" y1="0" x2=".15" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#f4ddb0"/><stop offset="1" stop-color="#eac395"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="m1 1 7 4-7 4" fill="none" stroke="#2e5948" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  <path d="M48 74h504v261l-9 11H57l-9-11z" fill="#bd8e62" stroke="#9a704d" stroke-width="1.5"/>
+  <rect x="48" y="62" width="504" height="271" rx="6" fill="url(#lime-wood)" stroke="#9a704d" stroke-width="1.5"/>
+  <path d="M68 92c82-4 152 12 223 6 84-7 172-7 240 0M69 107c45-4 114 8 147 8m169 4c51-4 94-2 145 2M71 274c104-9 190 9 277 1 63-5 119-7 181-1M65 293c74-7 129 5 205 3m82-1c61-8 125-7 175-2M69 311c56-5 95 2 146 3" fill="none" stroke="#a5754d" stroke-width="1.4" opacity=".25"/>
+  <g transform="translate(150 180) scale(.8)"><polygon points="0,-54 62,54 0,18" fill="#ae7745"/>
+      <polygon points="62,54 -62,54 0,18" fill="#90603d"/>
+      <polygon points="-62,54 0,-54 0,18" fill="#f2ce94"/>
+      <polygon points="0,-54 62,54 -62,54" fill="none" stroke="#745238" stroke-width="1.6" stroke-linejoin="round"/></g>
+  <g transform="translate(300 180) scale(.8)"><polygon points="0,-54 62,54 0,18" fill="#ae7745"/>
+      <polygon points="62,54 -62,54 0,18" fill="#90603d"/>
+      <polygon points="-62,54 0,-54 0,18" fill="#f2ce94"/>
+      <polygon points="0,-54 62,54 -62,54" fill="none" stroke="#745238" stroke-width="1.6" stroke-linejoin="round"/></g>
+  <g transform="translate(450 180) scale(.8)"><polygon points="0,-54 62,54 0,18" fill="#ae7745"/>
+      <polygon points="62,54 -62,54 0,18" fill="#90603d"/>
+      <polygon points="-62,54 0,-54 0,18" fill="#f2ce94"/>
+      <polygon points="0,-54 62,54 -62,54" fill="none" stroke="#745238" stroke-width="1.6" stroke-linejoin="round"/></g>
+</svg>

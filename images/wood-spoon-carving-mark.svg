@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="wood" x2="0" y2="1">
+      <stop stop-color="#f2d3a2"/><stop offset="1" stop-color="#d9a873"/>
+    </linearGradient>
+    <radialGradient id="hollow" cx=".47" cy=".39" r=".7">
+      <stop stop-color="#c58d58"/><stop offset=".67" stop-color="#aa7144"/><stop offset="1" stop-color="#deb680"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="m2 2 8 4-8 4" fill="none" stroke="#345946" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  
+  <text x="69" y="84" text-anchor="start" fill="#345946" font-family="Arial, sans-serif" font-size="25" font-weight="600">Волокна вдоль ложки</text>
+  <g transform="translate(0 196)">
+    <path d="M44 0c0-55 43-89 101-89 52 0 86 24 113 46 19 16 44 16 71 15l188-7q34 0 34 35t-34 35l-188-7c-27-1-52-1-71 15-27 22-61 46-113 46C87 89 44 55 44 0z" fill="url(#wood)" stroke="#785338" stroke-width="2"/>
+    <path d="M67-20q61-14 152 7 105 11 304-2M66 22q68 11 164-5 102-3 287 5m-424 26q59 10 105-7" fill="none" stroke="#a36b40" stroke-width="1.4" opacity=".48"/>
+    <path d="M61 0c0-43 34-74 85-75 49-1 72 22 101 45 23 19 52 17 81 16l185-6q24 0 24 20t-24 20l-185-6c-29-1-58-3-81 16-29 23-52 46-101 45C95 74 61 43 61 0z" fill="none" stroke="#785338" stroke-width="2" stroke-dasharray="5 4"/>
+    <path d="M83 0c0-34 26-56 65-57 34-1 70 31 76 47q4 10 0 20c-6 16-42 48-76 47C109 56 83 34 83 0z" fill="none" stroke="#785338" stroke-width="2"/>
+    <path d="M87 0H514" stroke="#345946" stroke-width="2.8" stroke-dasharray="7 6" marker-end="url(#arrow)"/>
+  </g>
+  <text x="69" y="329" text-anchor="start" fill="#345946" font-family="Arial, sans-serif" font-size="25" font-weight="600">Внутренняя линия оставляет бортик</text>
+
+</svg>

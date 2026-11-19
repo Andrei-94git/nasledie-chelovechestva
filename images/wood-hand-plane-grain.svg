@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  
+  <text x="62" y="104" fill="#315b47" font-family="Arial, sans-serif" font-weight="600" font-size="22">Направление первого прохода</text>
+  <path d="M114 153H485m-12 -8 12 8 -12 8" fill="none" stroke="#315b47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  
+    <clipPath id="board-196"><path d="M63 196H537v92H63z"/></clipPath>
+    <path d="M63 196H537v92H63z" fill="#e9c28e" stroke="#7f563b" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-480 306l560 -110M-403 306l560 -110M-326 306l560 -110M-249 306l560 -110M-172 306l560 -110M-95 306l560 -110M-18 306l560 -110M59 306l560 -110M136 306l560 -110M213 306l560 -110M290 306l560 -110M367 306l560 -110M444 306l560 -110" fill="none" stroke="#ab7449" stroke-width="2" opacity=".57" clip-path="url(#board-196)"/>
+  <path d="M188 235l200 -39" fill="none" stroke="#865632" stroke-width="3" stroke-linecap="round"/>
+  <path d="M205 232l26 59v12" fill="none" stroke="#865632" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="184" y="332" fill="#7f563b" font-family="Arial, sans-serif" font-weight="600" font-size="22">Волокна</text>
+</svg>

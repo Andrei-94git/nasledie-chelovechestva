@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" fill="none">
+<defs><pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse"><path d="M0 27V0H27" stroke="#4b3627" stroke-opacity=".13" stroke-width="1"/></pattern><pattern id="lines" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0v6" stroke="#fff3da" stroke-opacity=".3"/></pattern></defs>
+<path fill="#bfc6af" d="M0 0h800v540H0z"/><path fill="url(#grid)" d="M0 0h800v540H0z"/>
+<rect x="30" y="30" width="740" height="480" rx="4" stroke="#292d29" stroke-opacity=".26"/>
+<path d="M30 55h25V30m690 0v25h25M30 485h25v25m690 0v-25h25" stroke="#292d29" stroke-opacity=".5"/>
+<path d="M215 362 426 217l192 58-201 161z" fill="#314739" opacity=".2"/>
+<path d="M203 340 422 190l190 71-201 146z" fill="#b28d5e" stroke="#495747" stroke-width="3"/>
+<path d="M202 330 419 182l193 79-203 136z" fill="#e7d6aa" stroke="#495747" stroke-width="3"/>
+<path d="M202 330 348 123q75 7 71 59L612 261 409 397 365 289z" fill="#f3e8cc" stroke="#495747" stroke-width="3"/>
+<path d="m365 289 54-107M229 309l130-174m-105 168 113-148m-85 141 94-118m-62 110 72-87m36 175 160-108m-169 84 133-91m-143 70 112-75m-125 53 90-59" stroke="#a69e80" stroke-width="2" opacity=".7"/>
+<path d="M165 407h468m-468-8v16m468-16v16" stroke="#435a49" stroke-dasharray="4 6" stroke-width="2"/>
+</svg>

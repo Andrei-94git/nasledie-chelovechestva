@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" fill="none">
+<defs><pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse"><path d="M0 27V0H27" stroke="#4b3627" stroke-opacity=".13" stroke-width="1"/></pattern><pattern id="lines" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0v6" stroke="#fff3da" stroke-opacity=".3"/></pattern></defs>
+<path fill="#d7ac8e" d="M0 0h800v540H0z"/><path fill="url(#grid)" d="M0 0h800v540H0z"/>
+<rect x="30" y="30" width="740" height="480" rx="4" stroke="#292d29" stroke-opacity=".26"/>
+<path d="M30 55h25V30m690 0v25h25M30 485h25v25m690 0v-25h25" stroke="#292d29" stroke-opacity=".5"/>
+<ellipse cx="400" cy="424" rx="216" ry="28" fill="#6e412c" opacity=".18"/>
+<path d="M240 167c9 56 19 183 85 232 30 23 120 25 150 0 65-51 78-175 85-232" fill="#ad684e" stroke="#5c3328" stroke-width="3"/>
+<ellipse cx="400" cy="166" rx="161" ry="51" fill="#c98664" stroke="#5c3328" stroke-width="4"/>
+<ellipse cx="400" cy="169" rx="131" ry="36" fill="#654132" stroke="#5c3328" stroke-width="3"/>
+<path d="M247 214q153 83 307 0M256 247q144 79 288 0M263 281q137 75 274 0M274 315q126 67 252 0M289 348q111 55 222 0M311 378q89 47 178 0" stroke="#693a2d" stroke-width="4"/>
+<path d="M248 223q152 71 304 0M257 256q143 70 286 0M264 290q136 65 272 0M278 325q122 57 244 0M293 357q107 47 214 0" stroke="#e4a37d" stroke-width="3"/>
+<path d="M208 167v245m-8-245h16m-16 245h16M400 83v38m0 302v33" stroke="#694234" stroke-dasharray="3 5" stroke-width="2"/>
+</svg>

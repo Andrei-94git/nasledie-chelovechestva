@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <rect width="600" height="400" fill="#eee8d7"/>
+  <rect x="14" y="14" width="572" height="372" rx="7" fill="#faf5e8" stroke="#d6c9ae"/>
+  
+  <text x="63" y="97" fill="#315b47" font-family="Arial, sans-serif" font-weight="600" font-size="22">Гладкая поверхность</text>
+  <path d="M321 90H462m-12 -8 12 8 -12 8" fill="none" stroke="#315b47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  
+    <clipPath id="board-132"><path d="M63 132H537v55H63z"/></clipPath>
+    <path d="M63 132H537v55H63z" fill="#e9c28e" stroke="#7f563b" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-480 242l560 -110M-403 242l560 -110M-326 242l560 -110M-249 242l560 -110M-172 242l560 -110M-95 242l560 -110M-18 242l560 -110M59 242l560 -110M136 242l560 -110M213 242l560 -110M290 242l560 -110M367 242l560 -110M444 242l560 -110" fill="none" stroke="#ab7449" stroke-width="2" opacity=".57" clip-path="url(#board-132)"/>
+  <text x="63" y="248" fill="#9a5138" font-family="Arial, sans-serif" font-weight="600" font-size="22">Задиры</text>
+  <path d="M462 242H321m12 -8 -12 8 12 8" fill="none" stroke="#9a5138" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  
+    <clipPath id="board-288"><path d="M63 288H214l11 8 15-3 18 12 16-17h48l12 7 19-4 17 9 13-12H537v55H63z"/></clipPath>
+    <path d="M63 288H214l11 8 15-3 18 12 16-17h48l12 7 19-4 17 9 13-12H537v55H63z" fill="#e9c28e" stroke="#7f563b" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-480 398l560 -110M-403 398l560 -110M-326 398l560 -110M-249 398l560 -110M-172 398l560 -110M-95 398l560 -110M-18 398l560 -110M59 398l560 -110M136 398l560 -110M213 398l560 -110M290 398l560 -110M367 398l560 -110M444 398l560 -110" fill="none" stroke="#ab7449" stroke-width="2" opacity=".57" clip-path="url(#board-288)"/>
+</svg>

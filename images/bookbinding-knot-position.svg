@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280">
+  <title>Концы по обе стороны стежка</title>
+  <path fill="#ae8358" d="M0 0h420v280H0z"/>
+  <path fill="#d0ac7b" d="M15 15q99-5 195 4 96-9 195-4v246q-101-5-195 3-94-8-195-3z"/>
+  <path fill="#f6ebd4" d="M22 20q102-4 188 5v232q-91-9-188-5z"/>
+  <path fill="#fcf2df" d="M210 25q86-9 188-5v232q-97-4-188 5z"/>
+  <path d="M210 27v228" stroke="#ddcab0" stroke-width="2"/>
+  <g fill="#704d37">
+    <circle cx="210" cy="44" r="6"/><circle cx="210" cy="144" r="7"/><circle cx="210" cy="244" r="6"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="7">
+    <path d="M208 144c-36-9-83 13-130-16" stroke="#513928"/>
+    <path d="M212 144c36-9 83 13 130-16" stroke="#a4382d"/>
+  </g>
+  <path d="M210 44v200" stroke="#a66345" stroke-width="6" stroke-linecap="round"/>
+</svg>

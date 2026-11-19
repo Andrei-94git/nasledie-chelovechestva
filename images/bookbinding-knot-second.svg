@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280">
+  <title>Второй полуузел</title>
+  <path fill="#ae8358" d="M0 0h420v280H0z"/>
+  <path fill="#d0ac7b" d="M15 15q99-5 195 4 96-9 195-4v246q-101-5-195 3-94-8-195-3z"/>
+  <path fill="#f6ebd4" d="M22 20q102-4 188 5v232q-91-9-188-5z"/>
+  <path fill="#fcf2df" d="M210 25q86-9 188-5v232q-97-4-188 5z"/>
+  <path d="M210 27v228" stroke="#ddcab0" stroke-width="2"/>
+  <g fill="#704d37">
+    <circle cx="210" cy="44" r="6"/><circle cx="210" cy="144" r="7"/><circle cx="210" cy="244" r="6"/>
+  </g>
+  <path d="M210 44v200" stroke="#a66345" stroke-width="6" stroke-linecap="round"/>
+  <g transform="translate(420 15) scale(-1 .75)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <clipPath id="under-crossing"><rect x="155" y="77" width="31" height="44"/></clipPath>
+    <path d="M200 177q7-10 13-10c14-2 10 12-3 11-17-2-14-11-3-14" stroke="#513928" stroke-width="7"/>
+    <path d="M220 177q-7-10-13-10c-14-2-10 12 3 11 17-2 14-11 3-14" stroke="#a4382d" stroke-width="7"/>
+    <path id="right-end" d="M207 164C183 157 151 169 137 143S148 102 183 98 285 90 333 104"/>
+    <use href="#right-end" stroke="#513928" stroke-width="7"/>
+    <path id="working-end" d="M213 164C235 150 265 133 260 105 256 83 235 68 205 67 180 66 174 81 171 95 169 105 165 115 159 123"/>
+    <use href="#working-end" stroke="#f8eed9" stroke-width="14"/>
+    <use href="#working-end" stroke="#a4382d" stroke-width="7"/>
+    <g clip-path="url(#under-crossing)">
+      <use href="#right-end" stroke="#fcf2df" stroke-width="14"/>
+      <use href="#right-end" stroke="#513928" stroke-width="7"/>
+    </g>
+    <path d="m157 112 2 11 11-3" stroke="#a4382d" stroke-width="4"/>
+  </g>
+</svg>

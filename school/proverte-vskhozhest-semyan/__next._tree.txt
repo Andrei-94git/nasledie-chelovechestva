@@ -1,0 +1,7 @@
+:HL["/nasledie-chelovechestva/_next/static/chunks/0_pdcaad8t9in.css","style"]
+:HC["/",""]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"proverte-vskhozhest-semyan","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"school","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(public)","h":96,"c":"$Q2"}]]
+0:{"b":"eBzONLF9PWFcRsS0oFgh4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
