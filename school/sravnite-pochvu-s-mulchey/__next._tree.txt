@@ -1,7 +1,7 @@
-:HL["/nasledie-chelovechestva/_next/static/chunks/0_pdcaad8t9in.css","style"]
+:HL["/nasledie-chelovechestva/_next/static/chunks/3wgxe3g_8xfjf.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"sravnite-pochvu-s-mulchey","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"school","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(public)","h":96,"c":"$Q2"}]]
-0:{"b":"2N677mcAjTzxD8d8IHgte","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"H2q3rDkEq1BY6BKW_Ap4c","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
