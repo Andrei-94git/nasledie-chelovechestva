@@ -1,7 +1,7 @@
-:HL["/nasledie-chelovechestva/_next/static/chunks/3wgxe3g_8xfjf.css","style"]
+:HL["/nasledie-chelovechestva/_next/static/chunks/2ljuk_kc7cwo7.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"skleyka-derevyannogo-shchita","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"library","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(public)","h":96,"c":"$Q2"}]]
-0:{"b":"IW0oCgEYV5FFUhBfRhDFf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"i6g3t90inHXUc8yMP8Wg8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
