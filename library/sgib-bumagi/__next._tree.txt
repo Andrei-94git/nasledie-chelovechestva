@@ -1,7 +1,7 @@
-:HL["/nasledie-chelovechestva/_next/static/chunks/1yoxyxgyosv37.css","style"]
+:HL["/_next/static/chunks/1yoxyxgyosv37.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"sgib-bumagi","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"library","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(public)","h":96,"c":"$Q2"}]]
-0:{"b":"C8XzoDZsWgd6pm-kGZkiD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"MXogO2QkYTCvs9hI7OZH2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
