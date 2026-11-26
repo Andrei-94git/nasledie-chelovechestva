@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/1yoxyxgyosv37.css","style"]
+:HL["/_next/static/chunks/13uhdifaz2hy5.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"slepite-chashu-shchipkovym-sposobom","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"school","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(public)","h":96,"c":"$Q2"}]]
-0:{"b":"Zcg32QVmv9k4snWXR4R4o","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"uF6xKmjX5eqS2b_eDJels","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
