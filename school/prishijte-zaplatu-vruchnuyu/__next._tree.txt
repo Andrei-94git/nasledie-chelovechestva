@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/317ycj3w0_cdt.css","style"]
+:HL["/_next/static/chunks/24vo2z0m66qi9.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"slug","t":"d","k":"prishijte-zaplatu-vruchnuyu","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"school","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(public)","h":96,"c":"$Q2"}]]
-0:{"b":"TNfziIV3uH3tXa2tQOYfn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xdWebnTaLCg3T29IzIuHX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
